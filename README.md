@@ -1,2 +1,1 @@
-# demo-app
-for demo
+Text-util-app_using react
